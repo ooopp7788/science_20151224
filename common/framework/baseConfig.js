@@ -1,0 +1,1 @@
+var CCG=CCG||{};CCG.STAGE={WIDTH:1280,HEIGHT:720},CCG.FONT={PINYIN:"pinyin",KAITI:"CCKaiTi",HEITI:"黑体"},CCG.LOADING_IMAGE="../../../common/res/base/loading.png",CCG.DEBUG_MODE=!0;

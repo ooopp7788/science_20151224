@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>dongwu0001.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{226,134},{110,122}}</string>
+				<key>offset</key>
+				<string>{0,-11}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{130,145}</string>
+			</dict>
+			<key>dongwu0002.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{114,134},{110,126}}</string>
+				<key>offset</key>
+				<string>{0,-8}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{130,145}</string>
+			</dict>
+			<key>dongwu0003.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,145},{111,138}}</string>
+				<key>offset</key>
+				<string>{0,-3}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{130,145}</string>
+			</dict>
+			<key>dongwu0004.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{227,1},{120,111}}</string>
+				<key>offset</key>
+				<string>{0,-16}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{130,145}</string>
+			</dict>
+			<key>dongwu0005.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{110,142}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{130,145}</string>
+			</dict>
+			<key>dongwu0006.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{113,1},{112,131}}</string>
+				<key>offset</key>
+				<string>{0,-6}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{130,145}</string>
+			</dict>
+			<key>dongwu0007.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,285},{120,118}}</string>
+				<key>offset</key>
+				<string>{0,-13}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{130,145}</string>
+			</dict>
+			<key>dongwu0008.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{123,262},{110,123}}</string>
+				<key>offset</key>
+				<string>{0,-10}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{130,145}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>erdongwu.png</string>
+			<key>realTextureFileName</key>
+			<string>erdongwu.png</string>
+			<key>size</key>
+			<string>{348,404}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>348</integer>
+			<key>height</key>
+			<integer>404</integer>
+		</dict>
+	</dict>
+</plist>

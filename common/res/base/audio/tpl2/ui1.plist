@@ -1,0 +1,247 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>guanbi01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1555,4},{52,55}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{52,55}</string>
+			</dict>
+			<key>guanbi02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1615,4},{50,52}}</string>
+				<key>offset</key>
+				<string>{0,-1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{52,55}</string>
+			</dict>
+			<key>kaishi.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{4,227},{74,79}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{74,79}</string>
+			</dict>
+			<key>kuang01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{239,141},{107,79}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{107,79}</string>
+			</dict>
+			<key>kuang02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{4,4},{822,129}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{822,129}</string>
+			</dict>
+			<key>qingtian.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{86,227},{74,79}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{74,79}</string>
+			</dict>
+			<key>shengyin.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{168,227},{53,57}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{53,57}</string>
+			</dict>
+			<key>shengyin2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{682,141},{53,57}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{53,57}</string>
+			</dict>
+			<key>shengyinanniu.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1673,4},{31,30}}</string>
+				<key>offset</key>
+				<string>{-1,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{34,34}</string>
+			</dict>
+			<key>shengyintiao1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1494,69},{124,21}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{124,21}</string>
+			</dict>
+			<key>shengyintiao2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1626,64},{117,12}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{117,12}</string>
+			</dict>
+			<key>shengyintiao3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{804,141},{6,18}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{6,18}</string>
+			</dict>
+			<key>shuaxin.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{743,141},{53,57}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{53,57}</string>
+			</dict>
+			<key>shuaxin2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1494,4},{53,57}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{53,57}</string>
+			</dict>
+			<key>title01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{834,4},{652,156}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{652,156}</string>
+			</dict>
+			<key>title02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{4,141},{227,78}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{227,78}</string>
+			</dict>
+			<key>yutian.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{354,141},{74,79}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{74,79}</string>
+			</dict>
+			<key>zanting.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{436,141},{74,79}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{74,79}</string>
+			</dict>
+			<key>zhidao.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{518,141},{74,79}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{74,79}</string>
+			</dict>
+			<key>zhidao2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{600,141},{74,79}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{74,79}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>ui1.png</string>
+			<key>realTextureFileName</key>
+			<string>ui1.png</string>
+			<key>size</key>
+			<string>{1747,310}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1747</integer>
+			<key>height</key>
+			<integer>310</integer>
+		</dict>
+	</dict>
+</plist>

@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>beefly1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{60,100}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{60,100}</string>
+			</dict>
+			<key>bee1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,103},{60,100}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{60,100}</string>
+			</dict>
+			<key>beefly2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{63,1},{60,100}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{60,100}</string>
+			</dict>
+			<key>bee2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{63,103},{60,100}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{60,100}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>bee.png</string>
+			<key>realTextureFileName</key>
+			<string>bee.png</string>
+			<key>size</key>
+			<string>{124,204}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>124</integer>
+			<key>height</key>
+			<integer>204</integer>
+		</dict>
+	</dict>
+</plist>

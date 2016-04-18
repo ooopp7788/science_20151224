@@ -1,0 +1,21 @@
+{
+    "debugMode"     : 1,
+    "frameRate"     : 60,
+    "showFPS"		: false,
+    "id"            : "gameCanvas",
+    "renderMode"    : 1,
+    "jsList"        : [
+        "../../../common/framework/baseConfig.js",
+    	"../../../common/framework/base/baseResource.js",
+        "../../../common/framework/progressBar/pbResource.js",
+        "js/resource.js",
+
+        "../../../common/framework/base/BaseLayer.js",
+        "../../../common/framework/base/GameBaseLayer.js",
+        "../../../common/framework/science/ScienceBaseLayer.js",
+        "../../../common/framework/progressBar/progressBars.js",
+        "../../../common/framework/science/discovery/DiscoveryBaseLayer.js",
+
+        "js/DiscoveryLayer.js"
+    ]
+}

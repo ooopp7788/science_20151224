@@ -1,0 +1,7 @@
+body,div,canvas,p,h1,h2,h3,h4,h5,h6,ul,li{margin: 0;padding: 0;}
+a,img,button,input,textarea,span{outline: none;-webkit-tap-highlight-color:rgba(255,255,255,0);-webkit-appearance: none; border: none;border: 0;-webkit-text-size-adjust:none}
+html,body{height: 100%;}
+#videoBox{width: 100%;height: 100%;position: absolute;top: 0px;z-index: 990;}
+#gameCanvas{width: 100%;position: relative;z-index: 999;background-color: transparent;}
+
+/*background-color: #008b8b;*/

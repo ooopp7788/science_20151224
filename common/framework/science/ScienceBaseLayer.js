@@ -1,0 +1,1 @@
+!function(){var n=BaseLayer.extend({ctor:function(){this._super()},onEnter:function(){this._super()},initTitle:function(n){this._super(n);var i=this.getTitle();i.anchorX=0,i.anchorY=1,i.x=10,i.y=cc.winSize.height-12},onCloseCallback:function(){this._super(),CCG.DEBUG_MODE?window.location="../test/":closeWindow()}});window.ScienceBaseLayer=n}();
